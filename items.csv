@@ -1,0 +1,302 @@
+id,fullName,shortName,category,sizing
+IT001,"Wooden rocking chair with woven rattan seat, faded paint",Rocking Chair,Personal Items,Large
+IT002,"Child's pink tricycle with rubber handlebar grips, missing front basket",Kid's Tricycle,Personal Items,Small
+IT003,Folding metal camping cot with torn canvas sleeping surface,Camping Cot,Personal Items,Large
+IT004,"Plastic outdoor storage box with broken latch, faded blue",Plastic Storage Box,Personal Items,Small
+IT005,"Rattan wicker sofa frame without cushions, two-seater",Rattan Sofa Frame,Personal Items,Large
+IT006,"Wooden school desk with attached chair, carved initials on surface",School Desk with Chair,Personal Items,Large
+IT007,"Rusted metal fan on tall stand, blades intact, no power cord",Standing Metal Fan,Personal Items,Small
+IT008,"Child's red plastic slide, sun-faded, assembled",Kids' Plastic Slide,Personal Items,Large
+IT009,"Wooden chest of drawers, three drawers, missing one handle",Three-Drawer Chest,Personal Items,Large
+IT010,Old Singer foot-pedal sewing machine in wooden cabinet,Foot-Pedal Sewing Machine,Personal Items,Large
+IT011,"Plastic garden chair, white, one leg cracked but functional",Plastic Garden Chair,Personal Items,Small
+IT012,"Bamboo daybed frame without mattress, double width",Bamboo Daybed Frame,Personal Items,Large
+IT013,"Child's yellow plastic sandbox with lid, sand still inside",Plastic Sandbox with Lid,Personal Items,Small
+IT014,"Rattan armchair with cushion, water-stained but intact",Rattan Armchair,Personal Items,Small
+IT015,"Metal bunk bed frame, no mattresses, rust on joints",Metal Bunk Bed Frame,Personal Items,Large
+IT016,"Wooden bookshelf, four shelves, handmade, unfinished wood",Handmade Wooden Bookshelf,Personal Items,Large
+IT017,"Plastic toy kitchen playset, pink, complete with plastic utensils",Toy Kitchen Playset,Personal Items,Small
+IT018,"Thai spirit house on wooden post, ornate ceramic design",Spirit House on Post,Personal Items,Small
+IT019,"Child's blue bicycle with training wheels, 16-inch tires",Child's Bicycle with Training Wheels,Personal Items,Small
+IT020,"Folding wooden dining table, seats four, one hinge broken",Folding Dining Table,Personal Items,Large
+IT021,Metal clothing rack on wheels with collapsed umbrella top,Rolling Clothes Rack,Personal Items,Small
+IT022,"Wooden altar cabinet with glass doors, gold painted trim",Wooden Altar Cabinet,Personal Items,Large
+IT023,"Wicker laundry hamper, large oval shape, lid intact",Wicker Laundry Hamper,Personal Items,Small
+IT024,"Plastic children's wagon, red, with pull rope, rusted axle",Children's Plastic Wagon,Personal Items,Small
+IT025,"Wooden kitchen cabinet, two doors, painted white, peeling",Wooden Kitchen Cabinet,Personal Items,Large
+IT026,"Metal single bed frame with headboard, no mattress",Single Metal Bed Frame,Personal Items,Large
+IT027,"Rattan coffee table with glass top, glass cracked",Rattan Coffee Table with Cracked Glass,Personal Items,Small
+IT028,"Child's wooden rocking horse, painted, tail hair missing",Wooden Rocking Horse,Personal Items,Small
+IT029,"Plastic folding table, white, rectangular, seats six",Plastic Folding Table,Personal Items,Large
+IT030,"Old wooden television cabinet without TV, doors intact",Wooden TV Cabinet,Personal Items,Large
+IT031,"Bamboo shelving unit, five shelves, handlashed construction",Bamboo Shelf Unit,Personal Items,Large
+IT032,"Metal wardrobe with two doors, paint chipping, lock broken",Metal Wardrobe,Personal Items,Large
+IT033,"Plastic baby bath tub, pale yellow, no stand",Baby Bath Tub,Personal Items,Small
+IT034,"Wooden stepladder, three steps, one rung cracked",Three-Step Wooden Ladder,Personal Items,Small
+IT035,"Child's scooter, blue metal, rubber wheels, handle bent",Child's Metal Scooter,Personal Items,Small
+IT036,"Rattan room divider, three panels, screen intact",Rattan Room Divider,Personal Items,Large
+IT037,"Plastic washing basin on metal stand, large oval, faded green",Plastic Washing Basin on Stand,Personal Items,Small
+IT038,"Wooden ironing board, fabric cover torn, leg hinge intact",Wooden Ironing Board,Personal Items,Large
+IT039,"Metal shopping cart with plastic basket liner, one wheel wobbling",Metal Shopping Cart,Personal Items,Small
+IT040,Old wooden baby crib with missing side rail slats,Wooden Baby Crib,Personal Items,Large
+IT041,"Bamboo mat roll, woven pattern, six feet in length",Rolled Bamboo Mat,Personal Items,Large
+IT042,"Plastic stool, red, round seat, stackable type",Round Plastic Stool,Personal Items,Small
+IT043,"Metal bicycle with flat tires, adult size, no seat",Adult Metal Bicycle,Personal Items,Large
+IT044,"Wicker basket with lid, large, used for clothing storage",Large Wicker Storage Basket,Personal Items,Small
+IT045,"Wooden wall shelf unit, mounted type, three shelves",Wall-Mounted Wooden Shelf,Personal Items,Small
+IT046,"Child's plastic rocking chair, yellow, cartoon face on back",Child's Plastic Rocking Chair,Personal Items,Small
+IT047,"Metal filing cabinet, two drawers, dented side panel",Two-Drawer Metal Filing Cabinet,Personal Items,Large
+IT048,"Bamboo room partition frame without screen, freestanding",Bamboo Partition Frame,Personal Items,Large
+IT049,Old hand-crank ice shaving machine on wooden block base,Hand-Crank Ice Shaver,Personal Items,Small
+IT050,"Rattan magazine rack, floor-standing, four-tier",Rattan Magazine Rack,Personal Items,Small
+IT051,"Folding wooden clothes drying rack, multi-bar, full size",Folding Clothes Drying Rack,Personal Items,Large
+IT052,"Plastic toy storage bin, large, wheeled, primary colors",Wheeled Toy Storage Bin,Personal Items,Small
+IT053,"Steel safe box, small, combination lock jammed",Small Steel Safe Box,Personal Items,Small
+IT054,"Bamboo fish trap, conical shape, hand-woven traditional type",Traditional Bamboo Fish Trap,Personal Items,Small
+IT055,"Old wooden cradle with curved rockers, painted white",Wooden Baby Cradle,Personal Items,Small
+IT056,"Metal coat rack, freestanding, five hooks, one hook bent",Metal Coat Rack,Personal Items,Small
+IT057,"Plastic outdoor picnic table with attached benches, green",Plastic Picnic Table with Benches,Personal Items,Large
+IT058,"Wooden vegetable crate repurposed as shelf, stacked pair",Repurposed Vegetable Crate Shelf,Personal Items,Small
+IT059,"Child's inflatable bounce ring, deflated, stored in bag",Deflated Inflatable Bounce Ring,Personal Items,Small
+IT060,"Old Thai traditional fishing rod holder, bamboo, wall-mount style",Bamboo Fishing Rod Holder,Personal Items,Small
+IT061,"Clump of water hyacinth harvested from canal surface, fresh",Water Hyacinth Clump,Organic Matters,Small
+IT062,"Bundle of dried bamboo stalks pulled from canal bank, 2m lengths",Dried Bamboo Stalk Bundle,Organic Matters,Large
+IT063,Tangled mass of fishing line and net fragments from canal bottom,Tangled Fishing Net Mass,Organic Matters,Small
+IT064,"Large clump of common reed grass, roots attached, canal-harvested",Canal Reed Grass Clump,Organic Matters,Small
+IT065,"Decomposing coconut palm frond bundle, dried and waterlogged",Decomposed Palm Frond Bundle,Organic Matters,Large
+IT066,"Pile of silt and mud dredged from canal edge, dried in sun",Dried Canal Silt Pile,Organic Matters,Small
+IT067,Cluster of lotus stems and seed pods harvested from canal,Lotus Stem and Pod Cluster,Organic Matters,Small
+IT068,"Waterlogged timber log recovered from canal bed, softwood",Waterlogged Canal Log,Organic Matters,Large
+IT069,"Bundle of salvaged water spinach plants, roots intact",Water Spinach Bundle,Organic Matters,Small
+IT070,"Mass of green algae scraped from canal wall, semi-dry",Canal Wall Algae Mass,Organic Matters,Small
+IT071,Pile of dried fish scales and viscera discarded by fishermen,Dried Fish Waste Pile,Organic Matters,Small
+IT072,"Collected floating organic debris: leaves, twigs, bark from canal",Mixed Canal Organic Debris,Organic Matters,Small
+IT073,"Rotting wooden plank retrieved from canal, barnacle-encrusted",Barnacle-Encrusted Rotting Plank,Organic Matters,Large
+IT074,"Clump of duck weed harvested from canal surface, bagged loose",Duck Weed Clump,Organic Matters,Small
+IT075,"Pile of dead water lilies and lily pads, canal-harvested, drying",Dead Water Lily Pile,Organic Matters,Small
+IT076,Large tangle of river grass roots pulled from canal bank,River Grass Root Tangle,Organic Matters,Small
+IT077,Bundle of dried sugar cane husks washed from upstream,Dried Sugar Cane Husk Bundle,Organic Matters,Large
+IT078,Matted clump of human hair and organic waste from canal filter,Organic Canal Filter Waste,Organic Matters,Small
+IT079,Pile of mussel and snail shells harvested from canal stones,Canal Mussel and Snail Shells,Organic Matters,Small
+IT080,"Clump of pennywort plants with roots, harvested from canal bank",Pennywort Plant Clump,Organic Matters,Small
+IT081,"Decomposing banana tree trunk section, waterlogged, soft",Decomposed Banana Trunk Section,Organic Matters,Large
+IT082,Pile of dried water chestnut husks discarded near canal,Dried Water Chestnut Husks,Organic Matters,Small
+IT083,"Bundle of bamboo leaves and thin shoots, canal-side harvest",Bamboo Leaf and Shoot Bundle,Organic Matters,Small
+IT084,Large clump of pond moss scraped from submerged canal rocks,Pond Moss Clump,Organic Matters,Small
+IT085,"Dried papaya tree trunk section, hollow, salvaged from bank",Dried Papaya Trunk Section,Organic Matters,Large
+IT086,"Pile of dead freshwater crab shells, sorted and dried",Dried Freshwater Crab Shells,Organic Matters,Small
+IT087,Mass of water fern (Azolla) harvested from canal surface,Water Fern Mass,Organic Matters,Small
+IT088,"Bundle of cattail reeds with brown seed heads, canal-harvested",Cattail Reed Bundle,Organic Matters,Large
+IT089,"Decomposing wooden boat plank section, heavily waterlogged",Waterlogged Boat Plank Section,Organic Matters,Large
+IT090,Pile of dried coconut husks collected from canal edge,Dried Coconut Husk Pile,Organic Matters,Small
+IT091,"Clump of morning glory vine with roots, canal-bank growth",Canal Morning Glory Vine,Organic Matters,Small
+IT092,Mass of snag wood and root ball dredged from canal bend,Dredged Snag Wood Root Ball,Organic Matters,Small
+IT093,"Bundle of dried water mimosa branches, thorny, canal-bank",Dried Water Mimosa Bundle,Organic Matters,Large
+IT094,Pile of fish bones and dried roe sacs from canal fishermen,Dried Fish Bones and Roe,Organic Matters,Small
+IT095,"Floating mat of compressed aquatic vegetation, harvested block",Compressed Aquatic Vegetation Mat,Organic Matters,Large
+IT096,"Bundle of river sedge grass, dried, bound with vine",River Sedge Grass Bundle,Organic Matters,Small
+IT097,Pile of wet clay and organic matter from canal bank erosion,Canal Bank Erosion Clay,Organic Matters,Small
+IT098,"Clump of wild taro plants with large leaves, canal-bank",Wild Taro Plant Clump,Organic Matters,Small
+IT099,Bundle of dried pandanus leaves from canal-side tree,Dried Pandanus Leaf Bundle,Organic Matters,Large
+IT100,Pile of sun-dried freshwater snails sorted by size,Dried Freshwater Snails,Organic Matters,Small
+IT101,Decomposing jackfruit tree limb section from canal debris,Decomposed Jackfruit Limb,Organic Matters,Large
+IT102,"Clump of nipa palm frond sections, dried, from canal bank",Dried Nipa Palm Frond Sections,Organic Matters,Small
+IT103,Pile of dried shrimp exoskeletons from canal harvesting,Dried Shrimp Exoskeletons,Organic Matters,Small
+IT104,"Bundle of water caltrop plants with roots, canal-harvested",Water Caltrop Plant Bundle,Organic Matters,Small
+IT105,"Large piece of drifted mangrove wood, gnarled, bleached",Drifted Mangrove Wood Piece,Organic Matters,Large
+IT106,"Pile of dried eel skins stretched flat on bamboo, sun-dried",Dried Eel Skins on Bamboo,Organic Matters,Small
+IT107,Tangle of water vine (Ipomoea aquatica) roots and stems,Water Vine Root Tangle,Organic Matters,Small
+IT108,"Bundle of dried floating heart plant, canal-surface harvest",Dried Floating Heart Bundle,Organic Matters,Small
+IT109,"Pile of weathered coconut shells, halved, from canal edge",Weathered Coconut Shell Halves,Organic Matters,Small
+IT110,Clump of giant salvinia fern harvested from still canal water,Giant Salvinia Fern Clump,Organic Matters,Small
+IT111,"Rotting teak wood plank retrieved from canal, partial decay",Rotting Teak Wood Plank,Organic Matters,Large
+IT112,"Bundle of wild lemongrass stalks from canal bank, aromatic",Wild Lemongrass Bundle,Organic Matters,Small
+IT113,"Pile of dried mixed freshwater bivalve shells, sorted",Dried Freshwater Bivalve Shells,Organic Matters,Small
+IT114,"Clump of hornwort aquatic plant, submerged growth type",Hornwort Aquatic Plant Clump,Organic Matters,Small
+IT115,"Decomposing wooden fence post retrieved from canal, rotted base",Decomposed Wooden Fence Post,Organic Matters,Large
+IT116,"Bundle of dried yellow flag iris from canal edge, seed pods on",Dried Yellow Flag Iris Bundle,Organic Matters,Small
+IT117,Pile of canal sedimented charcoal residue from upstream burn,Canal Charcoal Sediment Pile,Organic Matters,Small
+IT118,Mass of paper and cardboard pulp saturated from canal float,Saturated Paper Pulp Mass,Organic Matters,Small
+IT119,"Clump of golden lotus banana plant with flower, canal bank",Golden Lotus Banana Clump,Organic Matters,Small
+IT120,"Bundle of dried arrowhead plant leaves and stalks, harvested",Dried Arrowhead Plant Bundle,Organic Matters,Small
+IT121,"Bale of flattened plastic PET water bottles, wire-bound, 50 units",Flattened PET Bottle Bale,Compressed Trash,Small
+IT122,"Stack of crushed aluminum beer cans, 200 units, bagged in sack",Crushed Beer Can Sack,Compressed Trash,Small
+IT123,"Bundle of tied corrugated cardboard boxes, flattened, 30 sheets",Flattened Cardboard Box Bundle,Compressed Trash,Large
+IT124,"Compressed stack of old Thai newspapers tied with twine, 80 issues",Compressed Newspaper Bundle,Compressed Trash,Small
+IT125,"Sack of crushed glass bottles sorted by color, green batch",Crushed Green Glass Bottle Sack,Compressed Trash,Small
+IT126,"Bale of mixed plastic grocery bags, knotted and compressed, 500 count",Compressed Plastic Bag Bale,Compressed Trash,Small
+IT127,"Stack of flattened tin food cans, label-stripped, rust-free",Flattened Tin Food Can Stack,Compressed Trash,Small
+IT128,"Bundle of rolled-up used rubber tires, three units, banded",Rolled Rubber Tire Bundle,Compressed Trash,Large
+IT129,"Compressed sack of plastic bottle caps, mixed colors, 2kg weight",Plastic Bottle Cap Sack,Compressed Trash,Small
+IT130,"Stack of flattened cooking oil plastic jugs, 20 units, tied",Flattened Cooking Oil Jug Stack,Compressed Trash,Small
+IT131,"Bundle of crushed aluminum foil food trays, 40 units, compact",Crushed Aluminum Tray Bundle,Compressed Trash,Small
+IT132,"Sack of smashed transparent glass jars, condiment type, sorted",Smashed Glass Jar Sack,Compressed Trash,Small
+IT133,"Stack of compressed polystyrene foam boxes, flattened, 15 units",Compressed Foam Box Stack,Compressed Trash,Large
+IT134,"Bundle of rolled-up used linoleum flooring, three rolls",Rolled Linoleum Flooring Bundle,Compressed Trash,Large
+IT135,Bag of crushed electrical copper wire insulation stripped off,Stripped Wire Insulation Bag,Compressed Trash,Small
+IT136,"Bale of used plastic rice sacks, turned inside out and stacked",Flattened Rice Sack Bale,Compressed Trash,Small
+IT137,"Stack of flattened milk cartons, 60 units, bound with elastic",Flattened Milk Carton Stack,Compressed Trash,Small
+IT138,"Bundle of coiled used garden hose sections, five 2m pieces",Coiled Garden Hose Bundle,Compressed Trash,Small
+IT139,"Sack of crushed plastic detergent bottle bottoms, sorted",Crushed Detergent Bottle Sack,Compressed Trash,Small
+IT140,"Stack of old corrugated metal roofing sheets, flattened, 5 sheets",Flattened Corrugated Metal Sheet Stack,Compressed Trash,Large
+IT141,"Bundle of folded used rice paper flour sacks, 20 units",Folded Flour Sack Bundle,Compressed Trash,Small
+IT142,"Bale of compressed mixed color plastic straws, 300 count bag",Compressed Straw Bale,Compressed Trash,Small
+IT143,"Stack of flattened woven plastic water sacks, 15 units, tied",Flattened Woven Water Sack Stack,Compressed Trash,Small
+IT144,"Bundle of used rubber sandal soles stripped from uppers, 30 pairs",Stripped Sandal Sole Bundle,Compressed Trash,Small
+IT145,"Sack of smashed brown glass beer bottles, sorted by type",Smashed Beer Bottle Sack,Compressed Trash,Small
+IT146,"Compressed roll of used plastic tarpaulin sheet, blue, torn",Compressed Tarpaulin Roll,Compressed Trash,Large
+IT147,"Stack of old laminated advertisement posters, rolled, 10 sheets",Rolled Advertisement Poster Stack,Compressed Trash,Large
+IT148,"Bundle of flattened aluminum soft drink cans, 150 units baled",Flattened Soft Drink Can Bundle,Compressed Trash,Small
+IT149,"Bag of used rubber band collections, sorted by width",Used Rubber Band Bag,Compressed Trash,Small
+IT150,"Stack of compressed hard plastic food container lids, 80 units",Compressed Food Container Lid Stack,Compressed Trash,Small
+IT151,"Bundle of coiled used rope, nylon type, various lengths, 10 pieces",Coiled Nylon Rope Bundle,Compressed Trash,Small
+IT152,"Sack of sorted copper pipe offcuts from plumbing work, short",Copper Pipe Offcut Sack,Compressed Trash,Small
+IT153,"Stack of old metal cookie tins flattened, label intact, 12 units",Flattened Cookie Tin Stack,Compressed Trash,Small
+IT154,"Bundle of tied used cardboard egg cartons, flat, 25 units",Flat Egg Carton Bundle,Compressed Trash,Small
+IT155,"Compressed roll of used wire mesh screen, rusty, 2 meters long",Compressed Wire Mesh Roll,Compressed Trash,Large
+IT156,"Stack of flattened black plastic rubbish bags, used, 50 units",Flattened Rubbish Bag Stack,Compressed Trash,Small
+IT157,"Bundle of smashed ceramic tiles, sorted by pattern, 30 pieces",Smashed Ceramic Tile Bundle,Compressed Trash,Small
+IT158,"Bale of used translucent plastic sheeting folded flat, 5 layers",Compressed Plastic Sheeting Bale,Compressed Trash,Large
+IT159,"Bag of stripped aluminum foil from cigarette pack liners, loose",Stripped Cigarette Foil Bag,Compressed Trash,Small
+IT160,"Stack of flattened plastic potted plant containers, 30 units",Flattened Plant Pot Stack,Compressed Trash,Small
+IT161,Bundle of compressed foam rubber offcuts from mattress work,Compressed Foam Rubber Bundle,Compressed Trash,Large
+IT162,"Sack of sorted used steel bottle caps, mixed brands, 500 count",Steel Bottle Cap Sack,Compressed Trash,Small
+IT163,"Stack of folded used plastic drop cloths, 6 units, large size",Folded Plastic Drop Cloth Stack,Compressed Trash,Large
+IT164,Bundle of flattened stainless steel food packaging containers,Flattened Steel Food Container Bundle,Compressed Trash,Small
+IT165,"Bag of sorted broken ceramic pot shards, flower pot type",Broken Ceramic Pot Shard Bag,Compressed Trash,Small
+IT166,"Stack of compressed used styrofoam food trays, 40 units baled",Compressed Styrofoam Food Tray Stack,Compressed Trash,Large
+IT167,"Bundle of tied together glass medicine bottles, 50 units small",Glass Medicine Bottle Bundle,Compressed Trash,Small
+IT168,"Sack of used wooden chopstick bundles, sorted and compressed",Used Wooden Chopstick Sack,Compressed Trash,Small
+IT169,"Roll of old wire fence stripped from demolition site, coiled",Coiled Old Wire Fence Roll,Compressed Trash,Large
+IT170,"Stack of folded used burlap sacks, natural fiber, 20 units",Folded Burlap Sack Stack,Compressed Trash,Small
+IT171,"Bundle of flattened plastic motor oil bottles, 1-liter type",Flattened Motor Oil Bottle Bundle,Compressed Trash,Small
+IT172,"Bag of sorted used hardware nails and screws, mixed sizes",Mixed Nail and Screw Bag,Compressed Trash,Small
+IT173,"Stack of old wooden pallets, stacked flat, three units",Stacked Wooden Pallet Set,Compressed Trash,Large
+IT174,"Bundle of used flip-flop sandals, sorted by size, 20 pairs",Sorted Flip-Flop Bundle,Compressed Trash,Small
+IT175,"Compressed sack of mixed polypropylene plastic scraps, sorted",Polypropylene Scrap Sack,Compressed Trash,Small
+IT176,"Stack of old car battery casings, acid drained, stacked 5 units",Stacked Empty Car Battery Casings,Compressed Trash,Small
+IT177,"Bundle of coiled used black irrigation hose, 3 sections",Coiled Irrigation Hose Bundle,Compressed Trash,Large
+IT178,"Sack of collected used metal spoons, sorted by size, 50 units",Used Metal Spoon Sack,Compressed Trash,Small
+IT179,"Stack of compressed used foam pool noodles, 8 units, banded",Compressed Pool Noodle Stack,Compressed Trash,Large
+IT180,"Bundle of tied used canning jar lids, glass seal type, 60 units",Used Canning Jar Lid Bundle,Compressed Trash,Small
+IT181,"Bale of sorted, flattened used waxed cardboard, 20 sheets",Flattened Waxed Cardboard Bale,Compressed Trash,Large
+IT182,"Used clay brick with mortar residue, standard Thai size 190x90x57mm",Used Clay Brick,Non-professional Construction Material,Small
+IT183,"Recycled concrete block, hollow type, standard 400x200x200mm",Hollow Concrete Block,Non-professional Construction Material,Large
+IT184,"Salvaged galvanized corrugated iron roofing sheet, 1.8m length",Galvanized Roofing Sheet,Non-professional Construction Material,Large
+IT185,"Bag of mixed aggregate sand and gravel, 20kg, tied at top",Sand and Gravel Bag,Non-professional Construction Material,Small
+IT186,"Used roof tile, Thai traditional clay type, red-orange glaze",Traditional Clay Roof Tile,Non-professional Construction Material,Small
+IT187,"Recycled concrete paving stone, square, 300x300x50mm",Recycled Concrete Paving Stone,Non-professional Construction Material,Small
+IT188,"Salvaged timber plank, 2400x150x25mm, de-nailed, rough cut",Salvaged Timber Plank,Non-professional Construction Material,Large
+IT189,"Length of PVC pipe, 100mm diameter, 2 meter section, used",Used PVC Pipe Section,Non-professional Construction Material,Large
+IT190,"Bag of Portland cement, partially used, resecured with tape, 15kg",Partially Used Cement Bag,Non-professional Construction Material,Small
+IT191,"Salvaged steel reinforcement bar (rebar), 12mm, 2m length, bent",Bent Steel Rebar Section,Non-professional Construction Material,Large
+IT192,"Used ceramic floor tile, light grey, 300x300mm, unbroken",Used Ceramic Floor Tile,Non-professional Construction Material,Small
+IT193,Salvaged wooden door frame with hinge plates but no door,Salvaged Wooden Door Frame,Non-professional Construction Material,Large
+IT194,"Length of galvanized steel angle bar, 50x50x5mm, 2m section",Galvanized Steel Angle Bar,Non-professional Construction Material,Large
+IT195,"Bag of lime powder in resecured plastic bag, 10kg, construction grade",Lime Powder Bag,Non-professional Construction Material,Small
+IT196,"Roll of used reinforcing mesh wire, 1x1m section, flattened",Used Reinforcing Wire Mesh Roll,Non-professional Construction Material,Small
+IT197,Salvaged wooden window frame with frosted glass panes intact,Salvaged Wooden Window Frame,Non-professional Construction Material,Large
+IT198,"Pile of used fired clay roofing ridge tiles, 8 units",Used Clay Ridge Tile Pile,Non-professional Construction Material,Small
+IT199,"Length of used black iron water pipe, 20mm diameter, 1.5m",Used Iron Water Pipe Section,Non-professional Construction Material,Large
+IT200,"Salvaged flat concrete paving slab, 600x400x60mm, cracked edge",Salvaged Concrete Paving Slab,Non-professional Construction Material,Large
+IT201,"Used white wall tile, 100x100mm, box of 50 pieces, intact",Box of Used White Wall Tiles,Non-professional Construction Material,Small
+IT202,"Salvaged galvanized steel C-channel section, 75mm, 2m length",Galvanized Steel C-Channel Section,Non-professional Construction Material,Large
+IT203,"Length of flexible conduit electrical tubing, 25mm, 3m coil",Flexible Conduit Tubing Coil,Non-professional Construction Material,Large
+IT204,"Bag of white sand for plastering, 25kg, partially used",Plastering White Sand Bag,Non-professional Construction Material,Small
+IT205,"Salvaged concrete kerbstone section, 500x150x200mm, chipped",Salvaged Concrete Kerbstone,Non-professional Construction Material,Small
+IT206,"Used black polythene damp-proof membrane roll, 1x2m piece",Black Polythene DPM Roll,Non-professional Construction Material,Large
+IT207,"Salvaged aluminum window sliding frame, 1x1.2m, no glass",Salvaged Aluminum Window Frame,Non-professional Construction Material,Large
+IT208,"Bundle of used wooden battens, 38x19mm, assorted lengths, 10 pieces",Used Wooden Batten Bundle,Non-professional Construction Material,Large
+IT209,"Used asphalt roofing felt roll, 1m wide, partial roll, 2m length",Partial Asphalt Roofing Felt Roll,Non-professional Construction Material,Large
+IT210,"Salvaged concrete step section, 900x250x150mm, single unit",Salvaged Concrete Step Section,Non-professional Construction Material,Large
+IT211,"Length of used HDPE water supply pipe, 32mm, 2m section",Used HDPE Water Pipe Section,Non-professional Construction Material,Large
+IT212,"Bag of mixed ceramic tile adhesive mortar, 10kg, dried lumps removed",Ceramic Tile Adhesive Bag,Non-professional Construction Material,Small
+IT213,"Salvaged hardwood floor board, 2400x90x18mm, tongue and groove",Salvaged Hardwood Floorboard,Non-professional Construction Material,Large
+IT214,"Used aluminum door threshold strip, 900mm length, bent at end",Aluminum Door Threshold Strip,Non-professional Construction Material,Small
+IT215,"Bundle of bamboo poles, 50mm diameter, 2m length, 6 poles tied",Bamboo Pole Bundle,Non-professional Construction Material,Large
+IT216,"Salvaged steel flat bar, 50x6mm, 2m length, surface rust",Salvaged Steel Flat Bar,Non-professional Construction Material,Large
+IT217,"Used plastic floor grating section, grey, 500x500mm, non-slip",Plastic Floor Grating Section,Non-professional Construction Material,Small
+IT218,"Bag of mixed hydraulic lime, 15kg, partially used bag sealed",Hydraulic Lime Mix Bag,Non-professional Construction Material,Small
+IT219,"Salvaged fired clay airbrick, standard 225x112x75mm, intact voids",Salvaged Clay Airbrick,Non-professional Construction Material,Small
+IT220,"Length of steel square hollow section tube, 50x50x3mm, 2m",Steel Square Hollow Section,Non-professional Construction Material,Large
+IT221,"Stack of salvaged concrete roof tiles, flat type, 10 units",Salvaged Flat Concrete Roof Tiles,Non-professional Construction Material,Small
+IT222,"Partial bag of premixed ready-mix concrete, 20kg, hardened lumps removed",Ready-Mix Concrete Bag,Non-professional Construction Material,Small
+IT223,"Bundle of used galvanized mild steel wire, 2mm gauge, coiled 5m",Galvanized Steel Wire Bundle,Non-professional Construction Material,Small
+IT224,"Salvaged pressed metal ceiling panel, 600x600mm embossed pattern",Salvaged Metal Ceiling Panel,Non-professional Construction Material,Small
+IT225,"Used zinc-coated steel downpipe section, 75mm, 1.5m length",Zinc Steel Downpipe Section,Non-professional Construction Material,Large
+IT226,"Bag of perlite aggregate insulation material, 10L bag, loose fill",Perlite Aggregate Bag,Non-professional Construction Material,Small
+IT227,"Salvaged concrete drainage channel section, U-type 300x150x500mm",Salvaged Concrete Drainage Section,Non-professional Construction Material,Small
+IT228,"Length of recycled steel road form shuttering, 2m, perforated",Recycled Steel Shuttering Strip,Non-professional Construction Material,Large
+IT229,"Used rubble stone pieces from demolished wall, limestone type, 10kg",Limestone Rubble Pieces,Non-professional Construction Material,Small
+IT230,"Salvaged translucent polycarbonate roofing sheet, 1.8m, cracked",Salvaged Polycarbonate Roofing Sheet,Non-professional Construction Material,Large
+IT231,"Length of used copper plumbing pipe, 15mm, 1m section, bent",Used Copper Plumbing Pipe,Non-professional Construction Material,Small
+IT232,"Bag of fine graded river sand for concrete mixing, 20kg",River Sand for Concrete Bag,Non-professional Construction Material,Small
+IT233,"Salvaged steel angle lintel, 75x50x6mm, 1.2m length",Steel Angle Lintel,Non-professional Construction Material,Large
+IT234,"Pile of used concrete roof insulation perlite slabs, 3 units",Concrete Insulation Slab Pile,Non-professional Construction Material,Large
+IT235,"Salvaged glazed terracotta coping tile, 300mm length, blue glaze",Glazed Terracotta Coping Tile,Non-professional Construction Material,Small
+IT236,"Used PVC rainwater gutter section, 110mm, 2m length, clip on",Used PVC Rainwater Gutter,Non-professional Construction Material,Large
+IT237,"Bundle of jute rope, 12mm diameter, 10m length, construction grade",Construction Jute Rope Bundle,Non-professional Construction Material,Large
+IT238,"Salvaged fired clay floor quarry tile, 150x150mm, unglazed red",Salvaged Clay Quarry Tile,Non-professional Construction Material,Small
+IT239,"Stack of used hollow concrete interlocking paving blocks, 6 units",Interlocking Concrete Paving Blocks,Non-professional Construction Material,Small
+IT240,"Bag of ground granulated blast furnace slag for concrete mix, 10kg",GGBS Concrete Mix Bag,Non-professional Construction Material,Small
+IT241,"Salvaged aluminum flat sheet, 600x1200x2mm, surface oxidized",Salvaged Aluminum Flat Sheet,Non-professional Construction Material,Large
+IT242,Front outboard motor cowling shell from old Yamaha 40HP engine,Outboard Motor Cowling Shell,Scrap Parts,Small
+IT243,"Single wooden chair leg with mortise joint, turned style, hardwood",Turned Wooden Chair Leg,Scrap Parts,Small
+IT244,"Tabletop from broken Thai restaurant folding table, formica laminate",Formica Laminate Tabletop,Scrap Parts,Large
+IT245,"Bow section of fiberglass longtail canal boat, cracked hull",Fiberglass Boat Bow Section,Scrap Parts,Large
+IT246,"Washing machine drum, stainless steel perforated barrel, no motor",Washing Machine Drum,Scrap Parts,Small
+IT247,"Single car door, white, from Toyota Corolla sedan, dented",Toyota Corolla Car Door,Scrap Parts,Large
+IT248,"Motorcycle fuel tank from Honda Wave 110, dented, chrome cap",Honda Wave Fuel Tank,Scrap Parts,Small
+IT249,"Gas stove cast iron burner grate set, two burners, complete",Gas Stove Burner Grate Set,Scrap Parts,Small
+IT250,Push cart wheel axle assembly with two solid rubber wheels,Cart Wheel Axle Assembly,Scrap Parts,Small
+IT251,"Drawer unit from old wooden wardrobe, two drawers with handles",Wardrobe Drawer Unit,Scrap Parts,Small
+IT252,"Used tuk-tuk rear seat bench cushion with vinyl cover, cracked",Tuk-Tuk Rear Seat Cushion,Scrap Parts,Large
+IT253,"Single wooden staircase step section, hardwood, paint stripped",Wooden Staircase Step Section,Scrap Parts,Large
+IT254,Outboard motor propeller shaft assembly from old Suzuki engine,Outboard Motor Propeller Shaft,Scrap Parts,Small
+IT255,"Refrigerator compressor unit, small, from broken household fridge",Fridge Compressor Unit,Scrap Parts,Small
+IT256,"Bicycle rear wheel with gear cassette, 26-inch, spokes intact",Bicycle Rear Wheel with Cassette,Scrap Parts,Small
+IT257,"Wooden cabinet door pair with ornate carved panel, teak wood",Carved Teak Cabinet Door Pair,Scrap Parts,Small
+IT258,"Boat rudder assembly from small canal wooden boat, tiller attached",Canal Boat Rudder with Tiller,Scrap Parts,Small
+IT259,"Metal desk drawer unit with three drawers, ball-bearing slides",Metal Desk Drawer Unit,Scrap Parts,Small
+IT260,"Electric motor housing from old water pump, 0.5HP, casing only",Water Pump Motor Housing,Scrap Parts,Small
+IT261,"Single rattan armchair arm section, curved, with upholstery tack",Rattan Chair Arm Section,Scrap Parts,Small
+IT262,"Motorcycle wheel rim from Honda PCX 150, alloy, no tire",Honda PCX Alloy Wheel Rim,Scrap Parts,Small
+IT263,Wooden boat transom section with outboard motor mounting bracket,Boat Transom with Motor Bracket,Scrap Parts,Large
+IT264,Old sewing machine arm and needle housing from Singer model,Sewing Machine Arm Housing,Scrap Parts,Small
+IT265,"Industrial fan blade unit, aluminum, five blades, hub intact",Industrial Fan Blade Unit,Scrap Parts,Small
+IT266,"Single school chair seat and back panel, molded plastic, orange",School Chair Seat and Back,Scrap Parts,Small
+IT267,"Front fork assembly from adult bicycle, threaded, no handlebars",Bicycle Front Fork Assembly,Scrap Parts,Small
+IT268,"Old Thai longtail boat steering wheel, wooden, with iron spoke",Longtail Boat Steering Wheel,Scrap Parts,Small
+IT269,"Drawer chest top surface section, plywood with veneer, handles on",Drawer Chest Top Panel,Scrap Parts,Large
+IT270,"Electric ceiling fan canopy and motor housing, teak wood cover",Ceiling Fan Motor Housing,Scrap Parts,Small
+IT271,"Car bonnet from Isuzu pickup truck, grey primer, one dent",Isuzu Pickup Truck Bonnet,Scrap Parts,Large
+IT272,"Wooden table base with four legs, round pedestal type, no top",Round Pedestal Table Base,Scrap Parts,Small
+IT273,"Outboard motor lower unit from Mariner 15HP, gearbox intact",Outboard Motor Lower Gearbox Unit,Scrap Parts,Small
+IT274,"Single bed headboard, rattan weave with wooden frame, intact",Rattan Bed Headboard,Scrap Parts,Large
+IT275,Water pump impeller housing from old submersible pump unit,Submersible Pump Impeller Housing,Scrap Parts,Small
+IT276,"Motorcycle swingarm from Yamaha Fino scooter, chrome, no wheel",Yamaha Fino Swingarm,Scrap Parts,Small
+IT277,"Broken piano keyboard section, 30 keys, ivory-look keytops",Piano Keyboard Section,Scrap Parts,Large
+IT278,"Wooden door panel with glass louvres, four slats, teak frame",Wooden Door with Glass Louvres,Scrap Parts,Large
+IT279,"Air conditioning compressor unit from split-type system, old",AC Split-Type Compressor Unit,Scrap Parts,Small
+IT280,Motorcycle exhaust pipe and silencer from old Honda Dream,Honda Dream Exhaust Silencer,Scrap Parts,Large
+IT281,"Wooden wardrobe hanging rail section with brackets, full width",Wardrobe Hanging Rail with Brackets,Scrap Parts,Large
+IT282,"Food cart wheel and axle frame assembly, stainless steel type",Food Cart Wheel Frame Assembly,Scrap Parts,Small
+IT283,"Single sofa backrest cushion unit, foam filled, fabric cover",Sofa Backrest Cushion,Scrap Parts,Small
+IT284,"Old longtail boat hull rib section, hardwood, curved, 1.5m arc",Longtail Boat Hull Rib Section,Scrap Parts,Large
+IT285,"Ceiling fan blade set, four wooden blades with mounting irons",Ceiling Fan Blade Set,Scrap Parts,Small
+IT286,"Rotary clothes washing mangle wringer unit, double rollers intact",Clothes Mangle Wringer Unit,Scrap Parts,Small
+IT287,"Metal shelf bracket set of six, heavy duty, painted black",Heavy Duty Metal Shelf Bracket Set,Scrap Parts,Small
+IT288,"Old wooden boat deck hatch with hinges and clasp, teak",Teak Boat Deck Hatch,Scrap Parts,Small
+IT289,"Motorcycle carburetor from Kawasaki Ninja 150, cleaned",Kawasaki Ninja Carburetor,Scrap Parts,Small
+IT290,"Single drawer from Thai wooden kitchen cabinet, teak, dovetail joints",Teak Kitchen Cabinet Drawer,Scrap Parts,Small
+IT291,"Ferris wheel seat gondola from children's amusement ride, fiberglass",Amusement Ride Gondola Seat,Scrap Parts,Small
+IT292,"Small outboard engine throttle and gearshift control box, used",Outboard Engine Control Box,Scrap Parts,Small
+IT293,"Old food vending cart canopy frame, folding aluminum poles, faded",Food Cart Canopy Frame,Scrap Parts,Large
+IT294,"Wooden daybed side panel section, carved motif, lacquered finish",Carved Daybed Side Panel,Scrap Parts,Large
+IT295,"Bus seat unit with metal frame and vinyl upholstery, two-person",Bus Seat Unit Two-Person,Scrap Parts,Large
+IT296,"Bicycle frame from old Raleigh Roadster, no wheels, chrome lugs",Raleigh Roadster Bicycle Frame,Scrap Parts,Large
+IT297,"Air compressor tank cylinder only, 20-liter, rusted exterior",Air Compressor Tank Cylinder,Scrap Parts,Small
+IT298,"Wooden shop display shelf section, glass front panel missing",Shop Display Shelf Section,Scrap Parts,Large
+IT299,"Used hand water pump head assembly, cast iron, no pipe attached",Cast Iron Hand Pump Head,Scrap Parts,Small
+IT300,"Old canal barge fender, hardwood block with rope loop, 40cm",Canal Barge Fender Block,Scrap Parts,Small
+IT301,"Commercial food blender base unit with motor, no jar, stainless",Commercial Blender Base Unit,Scrap Parts,Small
